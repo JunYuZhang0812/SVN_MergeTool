@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <index>0</index>
+  <name addPath="">None</name>
+  <name addPath="Assets/Code">Code</name>
+  <name addPath="Assets/Code_Lua">Code_Lua</name>
+  <name addPath="Assets/Resources">Resources</name>
+  <name addPath="Assets/GameAssets">GameAssets</name>
+</xml>

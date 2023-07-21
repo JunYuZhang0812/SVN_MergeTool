@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <ComparePath>H:\__软件\对比工具\Beyond Compare 3\BCompare.exe</ComparePath>
+  <name path="F:\D3_CBTrunk\Client" url="http://192.168.1.41:8080/svn/D3/branches/20210125_CB/Client">D3CB主干</name>
+  <name path="F:\D3_CBDEV\Client" url="http://192.168.1.41:8080/svn/D3/branches/20210720_CB_DEV/Client/">D3CB分支</name>
+  <name path="F:\D3_OB4Trunk\Client" url="http://192.168.1.41:8080/svn/D3/branches/20220628_OB/Client/">D3_OB4主干</name>
+  <name path="F:\D3_OB4Dev\Client" url="http://192.168.1.41:8080/svn/D3/branches/20220628_OB_DEV/Client/">D3_OB4分支</name>
+  <name path="F:\D3_CB_America_DEV" url="http://192.168.1.41:8080/svn/D3/branches/20211221_America_CB_DEV/Client/">D3CB欧美分支</name>
+  <name path="E:\DHS\Client" url="http://192.168.1.40:8080/svn/DHS/trunk/Client/">DHS主干</name>
+  <name path="F:\NewD2X\Client" url="http://192.168.1.40:8080/svn/Dragon2/branches/20201210_D2X_Main/Client">新D2X主干</name>
+  <name path="F:\NewD2X_DEV\Client" url="http://192.168.1.40:8080/svn/Dragon2/branches/20210201_D2X_DEV/Client">新D2X分支</name>
+  <name path="G:\D2XTrunk\Client" url="http://192.168.1.40:8080/svn/D2X/trunk/Client">D2X主干</name>
+  <name path="F:\D2X_DEV\Client" url="http://192.168.1.40:8080/svn/D2X/branches/20200925_CB1_DEV/Client">D2X分支</name>
+  <name path="G:\D2Trunk\Client" url="http://192.168.1.40:8080/svn/Dragon2/trunk/Client">D2国服主干</name>
+  <name path="G:\D2_CB3Trunk\Client" url="http://192.168.1.40:8080/svn/Dragon2/branches/20181231_CB3_TEST/Client">D2国服分支</name>
+  <name path="G:\D2_MultiLangueTrunk" url="http://192.168.1.40:8080/svn/Dragon2/branches/20190606_UnityUpdate/Client">D2台韩主干</name>
+  <name path="I:\WorkProject\D2_MultiDEV_190902\Client" url="http://192.168.1.40:8080/svn/Dragon2/branches/MultLanguages/20190902_DEV/Client">D2台韩分支</name>
+  <name path="I:\WorkProject\D2_Eng_MainTrunk\Client" url="http://192.168.1.40:8080/svn/Dragon2/branches/MultLanguages/20191007_MultLanguage/Client">D2欧美主干</name>
+  <name path="I:\WorkProject\D2_Eng_DEV\Client" url="http://192.168.1.40:8080/svn/Dragon2/branches/MultLanguages/20191105_MultLanguage_Dev/Client">D2欧美分支</name>
+  <name path="H:\WorkProject\SoutheastAsiaTrunk\Client" url="http://192.168.1.40:8080/svn/Dragon2/branches/MultLanguages/20191113_MultLanguage_SouthAsia/Client">D2东南亚主干</name>
+  <name path="H:\WorkProject\SoutheastAsiaDEV0207\Client" url="http://192.168.1.40:8080/svn/Dragon2/branches/MultLanguages/20200207_MultLanguage_SouthAsia_DEV/Client">D2东南亚分支</name>
+  <name path="H:\WorkProject\YueNanTrunk\Client" url="http://192.168.1.40:8080/svn/Dragon2/branches/MultLanguages/20200217_MultLanguage_Vietnam/Client">D2越南主干</name>
+  <name path="F:\D2_VN_DEV\Client" url="http://192.168.1.40:8080/svn/Dragon2/branches/MultLanguages/20200326_DEV_Vietnam/Client/">D2越南分支</name>
+  <name path="I:\WorkProject\ZongSi2_DEV_NEW_0903" url="http://192.168.1.40:8080/svn/Dragon2/branches/ZongSi/20190903_IOS_MJB_ZS2_DEV/Client">D2纵思主干</name>
+  <name path="I:\WorkProject\ZongSi_DEV_1030\Client" url="http://192.168.1.40:8080/svn/Dragon2/branches/ZongSi/20190807_IOS_MJB_1030_DEV/Client">D2纵思分支</name>
+  <name path="F:\D2JapanTrunk\Client\Client" url="http://192.168.1.40:8080/svn/Dragon2/branches/MultLanguages/20201110_MultLanguage_Japan/Client">D2日本主干</name>
+  <SvnPath>c:\Program Files\TortoiseSVN\bin\TortoiseProc.exe</SvnPath>
+  <SrcIndex>2</SrcIndex>
+  <TarIndex>3</TarIndex>
+</xml>
